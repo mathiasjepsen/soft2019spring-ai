@@ -16,6 +16,7 @@ We shall use the following resource infrastructure:
 
 * Course books: 
   * 100 page ML book: http://themlbook.com/wiki/doku.php
+  * Hands-on ML with Scikit-Learn, Keras and Tensorflow: https://github.com/ageron/handson-ml2
 
 
 * Course work material is on GitHub, here:
