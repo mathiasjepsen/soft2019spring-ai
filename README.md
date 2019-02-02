@@ -1,4 +1,4 @@
-# Introduktion
+# Introduction
 
 The Machine Learning & AI course is one of two elective courses on the 1./2.
 semester of the Bachelor programme at Cphbusiness/Lyngby SOFT. It is taught
