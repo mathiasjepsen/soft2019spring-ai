@@ -38,3 +38,5 @@ Announcements and general information is available through the [Moodle flow](htt
 **Code:** you should do the exercises **with your group**, from scratch, although some assistance is available through ...
 
 **Classroom exercises:** TBD (to-be-determined) -- but will be taken in context of the chapter 1 and 2 of the reading material, i.e. the '100 Page ML Book'.
+
+**Workshop Hours:** I will be settling on a module during the week, where I will be stationed in a room/office space on the CPHBUS campus, so that we might get a chance to look over the things that you (or I) are wondering about. It will be announced on the Moodle Flow ASAP.
