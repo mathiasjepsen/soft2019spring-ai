@@ -32,4 +32,4 @@ GitHub
 
 ## Mentimeter
 
-  * For active participation during class hours, we shall use the peer participation tool Mentimeter: https://www.mentimeter.com. You will receive instructions from us in due time, during the course when active participation is warranted (or required).
+  * For active participation during class hours, we shall use the peer participation tool Mentimeter: https://www.menti.com. You will receive instructions from us in due time, during the course when active participation is warranted (or required).
