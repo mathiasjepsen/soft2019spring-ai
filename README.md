@@ -28,7 +28,7 @@ GitHub
 
 ## Peergrade
 
-* All hand-in assignments are subject to peer review (you "grade" your fellow students), and will be conducted through Peergrade. You will receive information from us on how to sign up and participate in due time. 
+* All hand-in assignments are subject to peer review (you "grade" your fellow students), and will be conducted through [Peergrade](www.peergrade.io/join). You will receive information from us on how to sign up and participate in due time. 
 
 ## Mentimeter
 
