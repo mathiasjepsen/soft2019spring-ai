@@ -5,8 +5,6 @@ semester of the Bachelor programme at Cphbusiness/Lyngby SOFT. It is taught
 this semester (2019, spring) by Jens Egholm Pedersen (JEEP) and Jacob Trier
 Frederiksen (JTF).
 
-We shall use the following resource infrastructure:
-
 * General information on the courses of spring 2019 semester is on GitHub here:
   * https://datsoftlyngby.github.io/soft2019spring/
 
@@ -20,11 +18,13 @@ We shall use the following resource infrastructure:
 * Course work material is on GitHub, here:
   * https://github.com/datsoftlyngby/soft2019spring-ai
 
+We shall use the following resource infrastructure:
+
 ## Moodle
   * We will use the courses' [Moodle Flow](https://cphbusiness.mrooms.net/course/view.php?id=3151) for announcements to the class.
 
 ## GitHub
-  * Will be used extensively for relaying course materials, so link it in.
+  * Will be used extensively for relaying [course materials](https://github.com/datsoftlyngby/soft2019spring-ai), so link it in.
 
 ## Peergrade
   * All hand-in assignments are subject to peer review (you "grade" your fellow students), and will be conducted through [Peergrade](https://www.peergrade.io/join). You will receive information from us on how to sign up and participate in due time. 
