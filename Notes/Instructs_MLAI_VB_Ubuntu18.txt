@@ -1,0 +1,36 @@
+1) You need to install VirtualBox — this should be straight forward. 
+Configure your VM with as much RAM and disk space as you find acceptable, 
+without compromizing your host machine. I.e. with 8GB RAM on host, probably 
+allocate only 2-3GB on your VM. You’ll need about 25 gigs for disk space 
+(auto-extendable is a “good” option).
+
+2) You then need to install the latest Ubuntu (v 18.x, desktop edition) on 
+you freshly acquired Virtual (linux) machine. NB: do NOT(!) install updates 
+from Ubuntu once you’re up and running. It might end up crashing on update. 
+Follow the instructions here:
+
+Now you can go ahead and get the software, from your Ubuntu Desktop (use a 
+‘terminal’) running on your virtual machine. NB: do NOT(!) update/upgrade the 
+pip3 installer (default version should be 9.0if notified — it will mess up 
+your entire setup. So do:
+	~$ sudo apt-get install git
+	~$ sudo apt-get install python3
+	~$ sudo apt-get install jupyter-notebook
+	~$ sudo pip3 install numpy
+	~$ sudo pip3 install scikit-learn
+	~$ sudo pip3 install scikit-image
+	~$ sudo pip3 install matplotlib
+	~$ sudo pip3 install keras
+	~$ sudo pip3 install tensorflow
+
+Now you should be able to run Jupyter Notebooks on your Ubuntu machine:
+	~$ jupyter notebook
+
+And you can fetch the deep dream notebook here: 
+https://github.com/Jegp/keras_deepdream . Run that dreaming experiment. You 
+may run out of memory since the image requires tensorflow to allocate a lot 
+of RAM. If so, you can downsize the image (use python, to reshape the image 
+before “dreaming” it). Or you can give your virtual machine (in Virtual Box 
+config) more RAM, but you don’t want to give it too much since that will 
+freeze your host (your actual computer).
+
