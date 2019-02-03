@@ -7,7 +7,6 @@ Frederiksen (JTF).
 
 We shall use the following resource infrastructure:
 
-
 * General information on the courses of spring 2019 semester is on GitHub here:
   * https://datsoftlyngby.github.io/soft2019spring/
 
@@ -18,7 +17,6 @@ We shall use the following resource infrastructure:
   * 100 page ML book: http://themlbook.com/wiki/doku.php
   * Hands-on ML with Scikit-Learn, Keras and Tensorflow: https://github.com/ageron/handson-ml2
 
-
 * Course work material is on GitHub, here:
   * https://github.com/datsoftlyngby/soft2019spring-ai
 
@@ -27,9 +25,7 @@ We shall use the following resource infrastructure:
 GitHub
 
 ## Peergrade
-
-* All hand-in assignments are subject to peer review (you "grade" your fellow students), and will be conducted through [Peergrade](www.peergrade.io/join). You will receive information from us on how to sign up and participate in due time. 
+* All hand-in assignments are subject to peer review (you "grade" your fellow students), and will be conducted through [Peergrade](https://www.peergrade.io/join). You will receive information from us on how to sign up and participate in due time. 
 
 ## Mentimeter
-
-  * For active participation during class hours, we shall use the peer participation tool Mentimeter: https://www.menti.com. You will receive instructions from us in due time, during the course when active participation is warranted (or required).
+  * For active participation during class hours, we shall use the peer participation tool [Mentimeter:]( https://www.menti.com). You will receive instructions from us in due time, during the course when active participation is warranted (or required).
