@@ -11,11 +11,10 @@ Announcements and general information is available through the [Moodle flow](htt
 - **Create a Common Platform(!):** We have decided that we continue the course work using VirtualBox+Ubuntu18 desktop. That way we be sure to be on the same page. You can find instructions on how to install that platform [here](https://github.com/datsoftlyngby/soft2019spring-ai/blob/master/Notes/Instructs_MLAI_VB_Ubuntu18.txt). 
 
 - **Topics** 
-  - Python in Jupyter notebooks, 
-  - Python libraries
+  - Python in Jupyter notebooks + Python libraries
   - The machine learning wheel again
   - Classes of machine learning
-  - How to choose the right ML class for your task
+  - Choose an ML class for your task, mapping it out
   - Thinking of data
   - Linear regression 
   - Binary classification
