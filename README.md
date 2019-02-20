@@ -31,3 +31,18 @@ We shall use the following resource infrastructure:
 
 ## Mentimeter
   * For active participation during class hours, we shall use the peer participation tool [Mentimeter:]( https://www.menti.com). You will receive instructions from us in due time, during the course when active participation is warranted (or required).
+
+## Additional resources
+There exists a ton of resources that helps you understand the material. 
+Be proactive: find the video/books/games/friends that helps you learn! 
+We added some resources to things that might help you:
+
+| Source | Material | Link |
+| --- | --- | --- |
+| Khan Academy | Intuitive and friendly math videos  |  https://www.khanacademy.org/ |
+| 3blue1brown | Great visualisations of math topics, for instance [dot products](https://www.youtube.com/watch?v=LyGKycYT2v0), [linear algebra](https://www.youtube.com/watch?v=fNk_zzaMoSs&list=PLZHQObOWTQDPD3MizzM2xVFitgF8hE_ab) and [gradient descent](https://www.youtube.com/watch?v=IHZwWFHWa-w&feature=youtu.be). |https://www.3blue1brown.com/ | https://www.khanacademy.org/|
+| Towards machine learning | Real-world topics on ML, with great examples of for instance [linear regression](https://towardsdatascience.com/introduction-to-machine-learning-algorithms-linear-regression-14c4e325882a) and [clustering](https://towardsdatascience.com/clustering-unsupervised-machine-learning-8ebe089a1673). |https://towardsdatascience.com/|
+| Kaggle | Cool place for machine learning projects and competition (with real prizes!) | https://www.kaggle.com/|
+| List of awesome ML resources | A near-endless list of ML frameworks, libraries and software | https://github.com/josephmisiti/awesome-machine-learning|
+| List of awesome AI resources | A long list of AI courses, tools, apps, etc. | https://github.com/hades217/awesome-ai  
+| List of awe**ful** AI resources | A list of bad and scary AI things | https://github.com/daviddao/awful-ai |
