@@ -39,7 +39,7 @@ We added some resources to things that might help you:
 
 | Source | Material | Link |
 | --- | --- | --- |
-| Khan Academy | Intuitive and friendly math videos  |  
+| Khan Academy | Intuitive and friendly math videos  |  https://www.khanacademy.org/ |
 | 3blue1brown | Great visualisations of math topics, for instance [dot products](https://www.youtube.com/watch?v=LyGKycYT2v0), [linear algebra](https://www.youtube.com/watch?v=fNk_zzaMoSs&list=PLZHQObOWTQDPD3MizzM2xVFitgF8hE_ab) and [gradient descent](https://www.youtube.com/watch?v=IHZwWFHWa-w&feature=youtu.be). |https://www.3blue1brown.com/ | https://www.khanacademy.org/|
 | Towards machine learning | Real-world topics on ML, with great examples of for instance [linear regression](https://towardsdatascience.com/introduction-to-machine-learning-algorithms-linear-regression-14c4e325882a) and [clustering](https://towardsdatascience.com/clustering-unsupervised-machine-learning-8ebe089a1673). |https://towardsdatascience.com/|
 | Kaggle | Cool place for machine learning projects and competition (with real prizes!) | https://www.kaggle.com/|
