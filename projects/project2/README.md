@@ -94,9 +94,18 @@ Hand in
 ## Part 6: Manual Hyperparameter Tuning
 
 For the fourth classifier in this project -- namely kNN -- conduct a manual search for the best value of $k$ (the hyperparameter ´n_neighbors´), that yields the highest score.
-That 1) means finding a value, 2) putting it into the model, 3) train the entire model and 4) calculate the score. And then trying it all over again. 
-Do this at least 10 times to find a good value of the hyperparameter.
 
-Hand-in
+That means:
+
+  1. choosing a value (positive integer >= 1), 
+  2. putting it into the model, 
+  3. (re-)training the kNN model, and 
+  4. calculating the score. 
+  5. Then try 1)-4) all over again. 
+
+Do these steps at least 10 times to find a good value of the hyperparameter.
+
+Pleas, hand in:
+
 * A list of hyperparameter values, plus the scores, from the 10 times you changed the hyperparameter. The scores should be the **mean** from your 10-fold cross validation runs
 * A paragraph reflecting on why the value you found for `n_neighbors` -- for the highest score -- has that value.
